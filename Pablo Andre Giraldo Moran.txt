@@ -1,0 +1,7 @@
+Mi Nombre: Pablo Andre Giraldo Moran
+Edad: 25
+Profesión o estudios: Ingeniería de Computación y Sistemas
+Trabajo en:  NTTDATA
+Conocimientos en Programación:  Java
+Que espero al terminar el bootcamp: Conocer a fondo la parte de despliegues y devops para futuros proyectos
+Hobbies: ver Series y peliculas
