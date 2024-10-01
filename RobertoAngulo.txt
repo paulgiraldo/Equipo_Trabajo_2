@@ -1,0 +1,7 @@
+Mi Nombre: Roberto Angulo
+Edad: 52
+Profesión o estudios: Ingeniero Electrónico
+Trabajo en: "En busca de chamba".
+Conocimientos en Programación/DevOps: Python básico
+Que espero al terminar el bootcamp: Adentarme en DevOps
+Hobbies: Música, Fútbol
