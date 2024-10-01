@@ -1,0 +1,9 @@
+RAMA: Paul
+
+Mi Nombre: Carlos Paul Giraldo Palacios
+Edad: 52
+Profesión o estudios: Ingeniero de Sistemas e Informática.
+Trabajo en: Empresa Agroindustrial.
+Conocimientos en Programación/DevOps: SQL, Powerbuilder, JAVA
+Que espero al terminar el bootcamp: Aprender estos fundamentos y herramientas en forma muy clara, y utilizar estos conocimientos en mi ambito laboral.
+Hobbies: Fultbol y peliculas de ciencia ficción
